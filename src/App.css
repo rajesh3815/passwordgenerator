@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: bisque;
+}
+.btn{
+    background-color: rgb(26, 143, 206);
+    padding: .2rem;
+    text-align: center;
+}
+.main-cl{
+
+}
